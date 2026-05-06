@@ -1,0 +1,96 @@
+body {
+  background-image: url('Background-dark.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #cccccc; /* Fallback color if image fails to load */
+	padding-right: 70px;
+    padding-left: 70px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+	margin: 0;
+}
+
+h1{
+    font-family: "Pinyon Script", cursive;
+    font-size: 70px;
+    font-weight: lighter;
+    text-align: center;
+    margin: 0px;
+}
+
+p{
+    text-indent: 50px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.fig1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    object-fit: contain;
+}
+
+.fig2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    width: 30%;
+    object-fit: contain;
+}
+
+.fig3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    width: 25%;
+    object-fit: contain;
+}
+
+.fig4{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width: 25%;
+    object-fit: contain;
+}
+
+.fig5{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    width: 20%;
+    object-fit: contain;
+}
+
+.ref{
+    text-indent: -50px;
+    padding-left: 50px;
+    text-align: justify;
+    font-size: 17px;
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+}
+
+.excerpt{
+    font-size: 17px;
+    font-family: "Averia Serif Libre", serif;
+    font-weight: 400;
+    text-indent: 0;
+    padding-left: 120px;
+    padding-right: 120px;
+}
